@@ -1,3 +1,6 @@
+# react-medium-clone
+A clone of the [Medium Website](https://medium.com/) using ReactJS
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
